@@ -1,0 +1,27 @@
+"^(z)"
+"^(+)"
+"^(+(%))"
+"{+}"
+"{%}"
+" "
+"{^}"
+"b"
+"s"
+"q"
+"w"
+"e"
+"r"
+Undo
+Keep View
+Remove View
+Smooth
+Alt Brush
+Mini Menu
+Mask
+Brush Size
+Draw Size
+Draw
+Move
+Scale
+Rotate
+"C:\ "

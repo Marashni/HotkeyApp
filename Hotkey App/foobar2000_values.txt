@@ -1,0 +1,27 @@
+"{ENTER}"
+"^( )"
+"^(+(%(a)))"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+Play
+Pause/Resume
+Next
+
+
+
+
+
+
+
+
+
+
+"C:\Program Files (x86)\foobar2000\foobar2000.exe"
