@@ -1,0 +1,7 @@
+Author: Taylor Hawkins (Marashni)
+Web: http://www.marashni.org 
+
+Description:
+
+This application sends programmable hotkeys to user specified programs. 
+Ensure that VB.Net SendKeys Method Syntax is followed when programming hotkeys.
